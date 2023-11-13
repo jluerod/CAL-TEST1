@@ -23,12 +23,8 @@ public class App
     }
     public static int mul() {
 	return 4*2;
-	
-	
-    }
-  
+ }
     public static int div() {
-	
 	return 4/2;
     }
 }
